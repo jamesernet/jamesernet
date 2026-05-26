@@ -110,6 +110,17 @@ A small lab focused on strategy, prototypes, infrastructure, and emerging techno
 
 ---
 
+## Currently Exploring
+
+- programmable financial infrastructure
+- tokenized ownership systems
+- stablecoin settlement layers
+- startup operating systems
+- AI-assisted product development
+- decentralized coordination models
+
+---
+
 ## Elsewhere
 
 - Website: https://jamesernet.com
