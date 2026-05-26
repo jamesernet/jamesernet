@@ -1,4 +1,20 @@
-# James Richardson
+<h1 align="center">James Richardson</h1>
+
+<p align="center">
+  infrastructure · emerging technology · technical strategy
+</p>
+
+<p align="center">
+  Building systems that reduce friction, expand access,
+  and help teams navigate technical complexity.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fintech-Infrastructure-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Engineering-Leadership-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open-Systems-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Operational-Compliance-black?style=flat-square" />
+</p>
 
 Technology executive and systems-focused operator working across fintech, payments, infrastructure, and emerging technology.
 
