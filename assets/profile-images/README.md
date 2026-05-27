@@ -1,4 +1,4 @@
-# Assets
+# Profile Images
 
 This folder contains optimized 600x600 profile assets for:
 - GitHub profile
