@@ -38,6 +38,13 @@ and clear communication.
 
 ---
 
+## Currently Building
+
+- [EmergentLabs](https://github.com/emergent-possibilities) — digital payments, tokenized assets, smart contracts, and decentralized escrow.
+- [BridgeSafe](https://github.com/BridgeSafe) — regulated, compliant infrastructure for large cryptocurrency transactions.
+
+---
+
 ## Elsewhere
 
 - Website: https://jamesernet.com
