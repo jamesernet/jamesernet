@@ -40,7 +40,7 @@ and clear communication.
 
 ## Currently Building
 
-- [EmergentLabs](https://github.com/emergent-possibilities) — digital payments, tokenized assets, smart contracts, and decentralized escrow.
+- [EmergentLabs](https://github.com/emergent-possibilities) — a small lab of engineers and designers building practical tools, in the open where we can. Lately: digital payments, tokenized assets, and decentralized escrow.
 - [BridgeSafe](https://github.com/BridgeSafe) — regulated, compliant infrastructure for large cryptocurrency transactions.
 
 ---
